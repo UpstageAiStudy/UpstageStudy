@@ -10,4 +10,4 @@
 
 ## [24.06.18 ~ 24.06.24] 01.DeepLearning
 
-[X]Upstage AI Lab에서 Deeplearning 파트 강의를 듣고 관련 미션들을 직접 해결. [01-DeepLearning](./01-DeepLearning)
+[ X ]Upstage AI Lab에서 Deeplearning 파트 강의를 듣고 관련 미션들을 직접 해결. [01-DeepLearning](./01-DeepLearning)
